@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+div ul li {
+    margin: 0 20px;
+    display: inline-block;
+}
+
+ul {
+    background: #008080;
+}
+
+ul li a {
+    color: #f0f8ff;
+}
